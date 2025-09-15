@@ -20,18 +20,18 @@ This repository contains the core AI logic and API for a mental health support c
 ---
 
 ### Setup and Installation
-1.  **Clone the Repository**:
+1. **Clone the Repository**:
     ```bash
-    git clone [https://github.com/Bishal93-cloud/Mental-Health-ChatBot.git](https://github.com/Bishal93-cloud/Mental-Health-ChatBot.git)
+    git clone https://github.com/Bishal93-cloud/Mental-Health-ChatBot.git
     cd Mental-Health-ChatBot
     ```
 
-2.  **Create a Virtual Environment**:
+2. **Create a Virtual Environment**:
     ```bash
     python -m venv venv
     ```
 
-3.  **Activate the Virtual Environment**:
+3. **Activate the Virtual Environment**:
     - On Windows:
     ```bash
     .\venv\Scripts\activate
@@ -41,7 +41,7 @@ This repository contains the core AI logic and API for a mental health support c
     source venv/bin/activate
     ```
 
-4.  **Install Dependencies**:
+4. **Install Dependencies**:
     ```bash
     pip install flask
     ```
