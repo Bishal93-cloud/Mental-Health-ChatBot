@@ -112,7 +112,7 @@ The API will return a JSON object with the analysis result.
 ---
 
 ### Frontend Questions
-Your friend can use the following questions for the frontend. The questions are numbered to correspond with the keys in the API request body.
+The following questions should be used for the frontend. The questions are numbered to correspond with the keys in the API request body.
 
 1.  On a scale of 1-5, how would you describe your overall mood in the last two weeks? (1=very low, 5=very high)
 2.  Have you noticed any significant changes in your sleep patterns? (yes/no)
